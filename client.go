@@ -8,7 +8,7 @@ import (
 	"flag"
 	"github.com/jeffail/tunny"
 	"github.com/koding/kite"
-	"github.com/leibowitz/test_kite/bla"
+	"github.com/leibowitz/test-kite/bla"
 	"time"
 )
 

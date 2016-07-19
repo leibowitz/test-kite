@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/koding/kite"
-	"github.com/leibowitz/test_kite/bla"
+	"github.com/leibowitz/test-kite/bla"
 	"time"
 	"fmt"
 )
